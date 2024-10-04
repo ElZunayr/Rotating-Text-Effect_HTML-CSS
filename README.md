@@ -1,5 +1,5 @@
-<h1 align="center">HELLO WORLDS</h1>
-<h3 align="center">My First Website</h3>
+<h1 align="center">Rotating Text Effect</h1>
+<h3 align="center">Rotating Text Effect | HTML & CSS</h3>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +19,7 @@
 ---
 ## 💡 About the project
 My First Website
-- [Demo](https://github.com/ElZunayr/Rotating-Text-Effect_HTML-CSS.git)
+- [Demo](https://elzunayr.github.io/Rotating-Text-Effect_HTML-CSS/)
 
 ## 🚀 Getting started
 
