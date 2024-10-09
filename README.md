@@ -46,7 +46,7 @@ git clone https://github.com/ElZunayr/Rotating-Text-Effect_HTML-CSS.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/PZwH_qZwpUM/mqdefault.webp?v=66feb64c&sqp=CNC3_rcG&rs=AOn4CLDbLRyaJzP558C0qJ-BH71bybfrKg)](https://youtu.be/PZwH_qZwpUM)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/PZwH_qZwpUM/mqdefault.webp?v=66feb64c&sqp=CNS4mbgG&rs=AOn4CLA7NSnMHSMEmvzk-t4w5X2IB4ZGgw)](https://youtu.be/PZwH_qZwpUM)
 
 ## 📝 License
 
