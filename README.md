@@ -46,7 +46,7 @@ git clone https://github.com/ElZunayr/Rotating-Text-Effect_HTML-CSS.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/PZwH_qZwpUM/mqdefault.webp?v=66feb64c&sqp=CNS4mbgG&rs=AOn4CLA7NSnMHSMEmvzk-t4w5X2IB4ZGgw)](https://youtu.be/PZwH_qZwpUM)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/PZwH_qZwpUM/mqdefault.webp?v=671a1fd8&sqp=CPCchrkG&rs=AOn4CLABxNLHSemmLDn3iJ3cpbIbXGNJBw)](https://youtu.be/PZwH_qZwpUM)
 
 ## 📝 License
 
@@ -57,7 +57,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 Made with by EL Zunayr Development 
 
 ---
-Support El Zunayr :wave: [Get in touch](buymeacoffee.com/elzunayr)
+Support El Zunayr :wave: [Get in touch](https://sociabuzz.com/elzunayr)
 
 ## 🔗 References
 - https://youtu.be/zib5zqmjee4?si=Aqk0p1UwXcJVvP9k
